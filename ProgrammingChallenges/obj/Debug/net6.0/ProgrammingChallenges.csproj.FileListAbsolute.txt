@@ -1,0 +1,15 @@
+C:\Users\CarolineSouza\Documents\csharp_challenges\ProgrammingChallenges\bin\Debug\net6.0\ProgrammingChallenges.exe
+C:\Users\CarolineSouza\Documents\csharp_challenges\ProgrammingChallenges\bin\Debug\net6.0\ProgrammingChallenges.deps.json
+C:\Users\CarolineSouza\Documents\csharp_challenges\ProgrammingChallenges\bin\Debug\net6.0\ProgrammingChallenges.runtimeconfig.json
+C:\Users\CarolineSouza\Documents\csharp_challenges\ProgrammingChallenges\bin\Debug\net6.0\ProgrammingChallenges.dll
+C:\Users\CarolineSouza\Documents\csharp_challenges\ProgrammingChallenges\bin\Debug\net6.0\ProgrammingChallenges.pdb
+C:\Users\CarolineSouza\Documents\csharp_challenges\ProgrammingChallenges\obj\Debug\net6.0\ProgrammingChallenges.csproj.AssemblyReference.cache
+C:\Users\CarolineSouza\Documents\csharp_challenges\ProgrammingChallenges\obj\Debug\net6.0\ProgrammingChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CarolineSouza\Documents\csharp_challenges\ProgrammingChallenges\obj\Debug\net6.0\ProgrammingChallenges.AssemblyInfoInputs.cache
+C:\Users\CarolineSouza\Documents\csharp_challenges\ProgrammingChallenges\obj\Debug\net6.0\ProgrammingChallenges.AssemblyInfo.cs
+C:\Users\CarolineSouza\Documents\csharp_challenges\ProgrammingChallenges\obj\Debug\net6.0\ProgrammingChallenges.csproj.CoreCompileInputs.cache
+C:\Users\CarolineSouza\Documents\csharp_challenges\ProgrammingChallenges\obj\Debug\net6.0\ProgrammingChallenges.dll
+C:\Users\CarolineSouza\Documents\csharp_challenges\ProgrammingChallenges\obj\Debug\net6.0\refint\ProgrammingChallenges.dll
+C:\Users\CarolineSouza\Documents\csharp_challenges\ProgrammingChallenges\obj\Debug\net6.0\ProgrammingChallenges.pdb
+C:\Users\CarolineSouza\Documents\csharp_challenges\ProgrammingChallenges\obj\Debug\net6.0\ProgrammingChallenges.genruntimeconfig.cache
+C:\Users\CarolineSouza\Documents\csharp_challenges\ProgrammingChallenges\obj\Debug\net6.0\ref\ProgrammingChallenges.dll
